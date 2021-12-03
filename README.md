@@ -1,16 +1,27 @@
-### Hi there 👋
+# Juan Mate López Salgado
 
-<!--
-**MateolLopez/MateolLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤵 **About Me:**
+-  🔭  I'm looking for new jobs currently!
+-  🎓  I'm currently studying at SoyHenry
+-  🌱  I’m currently learning MongoDb and more about react, redux and NodeJs
+  
+**Skills:**
+- HTML 
+- CSS 
+- JavaScript 
+- React 
+- Redux 
+- Angular 
+- NodeJs 
+- Express 
+- PostgreSql 
+- Sequelize 
+- Bootstrap
+- Ionic
+
+🤝🏻  **Connect with Me:**
+- mateo.lopez.developer@gmail.com
+- https://www.linkedin.com/in/mateo-lopez-salgado/
