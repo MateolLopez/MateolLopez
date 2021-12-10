@@ -1,4 +1,4 @@
-# Juan Mate López Salgado
+# Juan Mateo López Salgado
 
 Hi there 👋
 
